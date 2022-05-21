@@ -1,7 +1,7 @@
 {
   "name": "ts-geek-joke-api",
   "description": "A TypeScript wrapper for the Geek Joke API",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/filippo-fonseca/ts-geek-joke-api",
   "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com>",
   "license": "MIT",
