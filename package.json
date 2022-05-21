@@ -29,6 +29,7 @@
     "printWidth": 120
   },
   "dependencies": {
+    "axios": "0.27.2",
     "tslib": "^2.1.0"
   }
 }
